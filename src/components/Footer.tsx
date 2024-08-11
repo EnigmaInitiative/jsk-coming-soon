@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="flex flex-col  gap-8 md:gap-16 md:flex-row justify-between">
         <div className="flex flex-col gap-4">
           <Image
-            src={logo}
+            src={logo as HTMLImageElement}
             alt="jsk-logo"
             height={1000}
             width={1000}
