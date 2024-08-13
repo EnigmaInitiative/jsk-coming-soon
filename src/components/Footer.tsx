@@ -41,10 +41,10 @@ const Footer = () => {
                 </div>
                 <div className="table-cell py-2 pl-4">
                   <a
-                    href="mailto:info@jskamc.com"
+                    href="mailto:sudeepbhartia@gmail.com"
                     className="text-blue-600 underline"
                   >
-                    info@jskamc.com
+                    sudeepbhartia@gmail.com
                   </a>
                 </div>
               </div>
